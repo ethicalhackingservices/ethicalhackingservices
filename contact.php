@@ -1,4 +1,4 @@
-<form method="post">
+<form action="./"  method="post">
   <span>First name: </span>
   <input id="fname" type="text">
   <span>Last name: </span>
